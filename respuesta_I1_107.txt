@@ -13,3 +13,6 @@ Si, los demas colaboradores pueden ver el archivo(comprobado con ArchivoPruebaBe
 
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos a través de la ventana Projects y por Discord.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Nosotros encontramos que la mejor forma de comunicarnos es a traves de un issue creado para cada tarea dentro de la solapa PROJECTS.
